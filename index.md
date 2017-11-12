@@ -64,12 +64,16 @@ EDUCATION
 
 Edenz Colleges Technology Academy | April 2016 - February 2017
 Bachelor's degree in Software Development Diploma Level 7
+
 Rybinsk State Aviation Technological Academy named after P. A. Solovyov | September 2003 - July 2009 
 Bachelor of Engineering with Honours, major in Management and Informatics in Technical Systems
+
 National Tertiary Education Consortium (NTEC) | July 2015 - March 2016
 General English + IELTS Preparation
+
 Municipal Educational Institution Myshkin Secondary School | September 1992 - June 2003
 High General School
+
 Additional pre-university education | September 1997 - June 2003
 Head of technical associations certificate of the Aircraft modeling
 
@@ -77,11 +81,17 @@ SKILLS
 
 Software
 
-React, React Native, Webpack 2, Redux, Angular 2, jQuery, JavaScript | HTML, CSS | C#, Lua, OOP, Unity, Marmalade, ZeroBrane Studio | MongoDB, PostgresQL, SQL Databases | Bootstrap 3, WordPress | Development cross-platform applications iOS & Android, Publishing cross-platform applications iOS & Android | ASP.NET MVC Core | Source control GitHub & BeansTalks 
+React, React Native, Webpack 2, Redux, Angular 2, jQuery, JavaScript | HTML, CSS | 
+C#, Lua, OOP, Unity, Marmalade, ZeroBrane Studio | MongoDB, PostgresQL, SQL Databases | 
+Bootstrap 3, WordPress | 
+Development cross-platform applications iOS & Android, Publishing cross-platform applications iOS & Android | 
+ASP.NET MVC Core | Source control GitHub & BeansTalks 
 
 Hardware
 
-Network settings & Internet connection | Computer & Cell phones ﬁxing | Arduino projects, Raspberry Pi projects, Freebooting consoles | Satellite antennas maintain  
+Network settings & Internet connection | Computer & Cell phones ﬁxing | 
+Arduino projects, Raspberry Pi projects, Freebooting consoles | 
+Satellite antennas maintain  
 
 INTERESTS
 
