@@ -1,5 +1,5 @@
 <h3>CV on Google Docs</h3>
-[IT_NZ_CV_Tarlan](https://docs.google.com/document/d/1u93OsFGT0AAbK3jLJhfHKqyMUrx7Ut3paDofeDK7878/edit#heading=h.kap4on6g0rcx/)
+[CV-Tarlan](https://docs.google.com/document/d/1u93OsFGT0AAbK3jLJhfHKqyMUrx7Ut3paDofeDK7878/edit#heading=h.kap4on6g0rcx/)
 
 <h3>PERSONAL WEB RESOURCES & APPS</h3>
 
