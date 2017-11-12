@@ -1,3 +1,101 @@
+
+<h3>TARLAN ISAEV</h3>
+
+I'm a software developer specialising in web technologies and mobile development I have a true passion to create graphic designs. I’m in the earlier stages of my career I have also developed skills in computer applications, hardware and network support and administration. 
+
+Skills and experience that I have received and improved on over the twelve years of my career allows me to organise my work independently and make informed decisions to solve technical  problems. I believe that distributing responsibilities among the staff gives more opportunities for fast execution of client orders. 
+
+I’m looking for long-term career opportunities in IT. I have an outgoing personality with leadership potential.
+
+<h3>EXPERIENCE</h3>
+
+Game Developer (internship) | February 2014 – February 2014 
+Game developing company “RedFox” 
+Game development on Unity with C#
+Game development on Marmalade & ZeroBrane Studio with Lua
+Cross platform development for iOS, Android & WebGL, Mac OS X, Windows platforms
+Publishing cross-platform applications iOS & Android
+Source control Unity collaboration & GitHub, BeansTalks   
+
+Individual Entrepreneur | May 2008 – July 2016 
+Computer company “One Titan” 
+Assembling computers based on the processors Intel & AMD
+Installs and supporting Windows OS, Mac OS X, Linux & additional software and tools
+Satellite antennas maintain 
+Assembling web & Lan networks 
+Freebooting of game consoles
+Computer troubleshooting
+Cell phone fixing
+
+Computer Technical Administrator | February 2007 – August 2007 
+Electronic sales company LLC “Liniya Toka” 
+Computer & electronic sales
+Assembling computers based on the processors Intel & AMD
+Windows OS & software installs to PC and laptops
+Sold office electronic equipment
+Hardware & software repairing of computers and laptops
+Replacement and improvement of components in them
+Setting up Lan networks with shared access to the Internet
+
+Engineer in Manufacturing Department | September 2005 – February 2007 
+Сontractor construction company in the gas sector LLC "APSP - 4" 
+Building engineering structures
+Architectural projects 
+Cost estimation 
+AutoCAD
+Microsoft Office 
+Software support
+
+Technical Manager | May 2005 – September 2005 
+Computer game club «Polygon» 
+Install & support Windows OS
+Maintaining LAN network
+Conditions of computers & Lan network maintaining 
+Computer games
+
+Computer Network Administrator | May 2003 – September 2003 
+Food Company “Food Stock”
+Computer assembling & Hardware repair
+Maintaining & administering LAN network 
+Install & support Windows OS
+Microsoft Office 
+
+EDUCATION
+
+Edenz Colleges Technology Academy | April 2016 - February 2017
+Bachelor's degree in Software Development Diploma Level 7
+Rybinsk State Aviation Technological Academy named after P. A. Solovyov | September 2003 - July 2009 
+Bachelor of Engineering with Honours, major in Management and Informatics in Technical Systems
+National Tertiary Education Consortium (NTEC) | July 2015 - March 2016
+General English + IELTS Preparation
+Municipal Educational Institution Myshkin Secondary School | September 1992 - June 2003
+High General School
+Additional pre-university education | September 1997 - June 2003
+Head of technical associations certificate of the Aircraft modeling
+
+SKILLS
+
+Software
+
+React, React Native, Webpack 2, Redux, Angular 2, jQuery, JavaScript | HTML, CSS | C#, Lua, OOP, Unity, Marmalade, ZeroBrane Studio | MongoDB, PostgresQL, SQL Databases | Bootstrap 3, WordPress | Development cross-platform applications iOS & Android, Publishing cross-platform applications iOS & Android | ASP.NET MVC Core | Source control GitHub & BeansTalks 
+
+Hardware
+
+Network settings & Internet connection | Computer & Cell phones ﬁxing | Arduino projects, Raspberry Pi projects, Freebooting consoles | Satellite antennas maintain  
+
+INTERESTS
+
+Resource-Based Economy | The Venus Project | The Zeitgeist Movement | Science | Elon Musk | Tesla 
+Information Technologies | Blockchain | Running | Cycling | Skiing | Photography | Video games | Podcasts 
+
+LANGUAGES
+
+Russian native | English advanced | Azerbaijani native 
+
+PERSONAL DETAILS
+
+Open work visa until 12.04.2018 | Russian, EU, INT driving licence 
+
 <h3>PERSONAL WEB RESOURCES & APPS</h3>
 
 SpeckNZ - Resource-Based Economy platform made on Discourse http://specknz.me/ 
@@ -10,3 +108,9 @@ RelaxME - Massaging app made on React Native globally published on [Apple AppSto
 
 2048 puzzle game - Puzzle game made on Unity globally published on [Apple AppStore](https://itunes.apple.com/nz/app/2048-logic-puzzle-game/id1193111277?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=me.specknz.puzzle)
 
+<h3>REFERENCES</h3>
+
+Impact NPO Charity organisation | Organiser Bhargavi Kotte 0210517000 | GridAKL space Auckland | Honourable volunteer  participated 4 times
+The Resource Based Global sustainability activist group | Organiser Gloria Gaspar 02040228615 | RBENZ Meetup group | Worldwide & Auckland activist 
+The game development company “RedFox” | Stephen McIntyre 021952680 | The Arcade Auckland | Game development internship 
+Cleaning Company | Company Director Ana Travaglio 0210673645 | Piha Auckland | Student part-time work
