@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+## PERSONAL WEB RESOURCES & APPS
 
-You can use the [editor on GitHub](https://github.com/organicnz/Resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+SpeckNZ - Resource-Based Economy platform http://specknz.me/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Oceanic - Bootstrap website to help applicants to translate their documents to English http://organicnz.github.io/oceanic/
+
+CleanME - Cleaning app globally published on [Apple AppStore](https://itunes.apple.com/nz/app/cleanme-cleaning-services/id1181291989?mt=8/) and [Google Play Market] 
+
+RelaxME - Massaging app globally published on Apple AppStore and Google Play Market
+
+2048 puzzle game - Puzzle game globally published on Apple AppStore and Google Play Market
 
