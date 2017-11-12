@@ -1,5 +1,5 @@
 <h3>CV ON GOOGLE DOCS</h3>
-[CV-Tarlan](https://docs.google.com/document/d/1u93OsFGT0AAbK3jLJhfHKqyMUrx7Ut3paDofeDK7878/edit#heading=h.kap4on6g0rcx/)
+[CV-Tarlan](https://docs.google.com/document/d/1u93OsFGT0AAbK3jLJhfHKqyMUrx7Ut3paDofeDK7878/edit?usp=sharing/)
 
 <h3>PERSONAL WEB RESOURCES & APPS</h3>
 
