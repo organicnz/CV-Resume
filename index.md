@@ -7,7 +7,7 @@ SpeckNZ - Resource-Based Economy platform made on Discourse http://specknz.me/
 
 Oceanic - Bootstrap website to help applicants to get translated their documents to English http://organicnz.github.io/oceanic/
 
-CleanME - Cleaning app made on React Native globally published on [Apple AppStore](https://itunes.apple.com/nz/app/cleanme-cleaning-services/id1181291989?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=com.cleanme.cleanme) 
+CleanME - Cleaning app made on React Native globally published on [Apple AppStore](https://itunes.apple.com/nz/app/cleanme-cleaning-services/id1181291989?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=com.cleanme.cleanme/) 
 
 RelaxME - Massaging app made on Unity globally published on [Apple AppStore](https://itunes.apple.com/nz/app/relaxme-massage-services/id1186184398?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=com.specknz.relaxme/)
 
