@@ -3,7 +3,7 @@
 
 <h3>PERSONAL WEB RESOURCES & APPS</h3>
 
-SpeckNZ - Resource-Based Economy platform made on Discourse http://specknz.me/ 
+Onyx.exchange - Crypto portfolio hedge fund http://www.onyx.exchange/ 
 
 Oceanic - Bootstrap website to help applicants to get translated their documents to English http://organicnz.github.io/oceanic/
 
