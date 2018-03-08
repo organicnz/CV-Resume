@@ -3,7 +3,7 @@
 
 <h3>PERSONAL WEB RESOURCES & APPS</h3>
 
-Onyx.exchange - Crypto portfolio hedge fund (dev mode) http://www.onyx.exchange/ 
+[Onyx.exchange] (http://www.onyx.exchange/)  - Crypto portfolio hedge fund (dev mode) 
 
 Ethermine - Cryptocurrency dual-mining Ethereum + Siacoin by using graphics cards https://ethermine.org/miners/e3db5718a40ecf53834c1ae0fb91208622fa1e94
 
