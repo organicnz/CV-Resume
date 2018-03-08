@@ -5,13 +5,13 @@
 
 [Onyx.exchange](http://www.onyx.exchange/)  - Crypto portfolio hedge fund (dev mode) 
 
-Ethermine - Cryptocurrency dual-mining Ethereum + Siacoin by using graphics cards https://ethermine.org/miners/e3db5718a40ecf53834c1ae0fb91208622fa1e94
+[Ethermine](https://ethermine.org/miners/e3db5718a40ecf53834c1ae0fb91208622fa1e94) - Cryptocurrency dual-mining Ethereum + Siacoin by using graphics cards 
 
-Gocleanme - Cleaning services with the cryptocurrency acceptance as payments http://www.gocleanme.me/
+[Gocleanme](http://www.gocleanme.me/) - Cleaning services with the cryptocurrency acceptance as payments 
 
-Oceanic - Bootstrap website to help applicants to get translated their documents to English http://organicnz.github.io/oceanic/
+[Oceanic](http://organicnz.github.io/oceanic/) - Bootstrap website to help applicants to get translated their documents to English 
 
-SpeckNZ - Resource-Based Economy platform  http://www.specknz.me/
+[SpeckNZ](http://www.specknz.me/) - Resource-Based Economy platform  
 
 CleanME - Cleaning app made on React Native globally published on [Apple AppStore](https://itunes.apple.com/nz/app/cleanme-cleaning-services/id1181291989?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=com.cleanme.cleanme) (dev mode)
 
