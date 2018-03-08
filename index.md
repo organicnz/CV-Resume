@@ -3,11 +3,15 @@
 
 <h3>PERSONAL WEB RESOURCES & APPS</h3>
 
-Onyx.exchange - Crypto portfolio hedge fund http://www.onyx.exchange/ 
+Onyx.exchange - Crypto portfolio hedge fund (development mode) http://www.onyx.exchange/ 
+
+Gocleanme - Cleaning services with the cryptocurrency acceptance as payments http://www.gocleanme.me/
 
 Oceanic - Bootstrap website to help applicants to get translated their documents to English http://organicnz.github.io/oceanic/
 
-CleanME - Cleaning app made on React Native globally published on [Apple AppStore](https://itunes.apple.com/nz/app/cleanme-cleaning-services/id1181291989?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=com.cleanme.cleanme) 
+SpeckNZ - Resource-Based Economy platform  http://www.specknz.me/
+
+CleanME - Cleaning app made on React Native globally published on [Apple AppStore](https://itunes.apple.com/nz/app/cleanme-cleaning-services/id1181291989?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=com.cleanme.cleanme) (development mode)
 
 RelaxME - Massaging app made on Unity globally published on [Apple AppStore](https://itunes.apple.com/nz/app/relaxme-massage-services/id1186184398?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=com.specknz.relaxme/)
 
