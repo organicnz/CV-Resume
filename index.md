@@ -3,7 +3,7 @@
 
 <h3>PERSONAL WEB RESOURCES & APPS</h3>
 
-Onyx.exchange - Crypto portfolio hedge fund (development mode) http://www.onyx.exchange/ 
+Onyx.exchange - Crypto portfolio hedge fund (dev mode) http://www.onyx.exchange/ 
 
 Ethermine - Cryptocurrency dual-mining Ethereum + Siacoin by using graphics cards https://ethermine.org/miners/e3db5718a40ecf53834c1ae0fb91208622fa1e94
 
@@ -13,7 +13,7 @@ Oceanic - Bootstrap website to help applicants to get translated their documents
 
 SpeckNZ - Resource-Based Economy platform  http://www.specknz.me/
 
-CleanME - Cleaning app made on React Native globally published on [Apple AppStore](https://itunes.apple.com/nz/app/cleanme-cleaning-services/id1181291989?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=com.cleanme.cleanme) (development mode)
+CleanME - Cleaning app made on React Native globally published on [Apple AppStore](https://itunes.apple.com/nz/app/cleanme-cleaning-services/id1181291989?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=com.cleanme.cleanme) (dev mode)
 
 RelaxME - Massaging app made on Unity globally published on [Apple AppStore](https://itunes.apple.com/nz/app/relaxme-massage-services/id1186184398?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=com.specknz.relaxme/)
 
