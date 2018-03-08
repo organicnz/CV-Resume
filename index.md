@@ -5,6 +5,8 @@
 
 Onyx.exchange - Crypto portfolio hedge fund (development mode) http://www.onyx.exchange/ 
 
+Ethermine - Cryptocurrency dual-mining Ethereum + Siacoin by using graphics cards https://ethermine.org/miners/e3db5718a40ecf53834c1ae0fb91208622fa1e94
+
 Gocleanme - Cleaning services with the cryptocurrency acceptance as payments http://www.gocleanme.me/
 
 Oceanic - Bootstrap website to help applicants to get translated their documents to English http://organicnz.github.io/oceanic/
