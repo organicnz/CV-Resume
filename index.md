@@ -13,8 +13,8 @@
 
 [SpeckNZ](http://www.specknz.me/) - Resource-Based Economy platform /based on Discource and deployed to the DigitalOcean Cloud  
 
-CleanME - Cleaning app made on React Native globally published on [Apple AppStore](https://itunes.apple.com/nz/app/cleanme-cleaning-services/id1181291989?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=com.cleanme.cleanme) /dev mode
+[CleanME](https://itunes.apple.com/nz/app/cleanme-cleaning-services/id1181291989?mt=8/) - Cleaning app made on React Native globally published on [Apple AppStore](https://itunes.apple.com/nz/app/cleanme-cleaning-services/id1181291989?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=com.cleanme.cleanme) /dev mode
 
-RelaxME - Massaging app made on Unity globally published on [Apple AppStore](https://itunes.apple.com/nz/app/relaxme-massage-services/id1186184398?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=com.specknz.relaxme/)
+[RelaxME](https://itunes.apple.com/nz/app/relaxme-massage-services/id1186184398?mt=8/) - Massaging app made on Unity globally published on [Apple AppStore](https://itunes.apple.com/nz/app/relaxme-massage-services/id1186184398?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=com.specknz.relaxme/)
 
-2048 puzzle game - Puzzle game made on Unity globally published on [Apple AppStore](https://itunes.apple.com/nz/app/2048-logic-puzzle-game/id1193111277?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=me.specknz.puzzle)
+[2048 Puzzle Game](https://itunes.apple.com/nz/app/2048-logic-puzzle-game/id1193111277?mt=8/) - Puzzle game made on Unity globally published on [Apple AppStore](https://itunes.apple.com/nz/app/2048-logic-puzzle-game/id1193111277?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=me.specknz.puzzle)
