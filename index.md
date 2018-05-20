@@ -11,6 +11,7 @@ I’m looking for long-term career opportunities in IT. I have an outgoing perso
 <span>
    <i class='no-italics'>EXPERIENCE</i>
 </span>
+
 Individual Entrepreneur Tarlan Isaev | June 2017
 Micro server and VPN services 
 Raspberry Pi 3 b+ microserver cluster for Webapps and Single Ethereum pool
