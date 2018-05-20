@@ -1,5 +1,5 @@
 <span>
-   <b class='no-italics'>TARLAN ISAEV [CV-Tarlan](https://docs.google.com/document/d/1u93OsFGT0AAbK3jLJhfHKqyMUrx7Ut3paDofeDK7878/edit?usp=sharing/)
+   <b class='no-italics'>TARLAN ISAEV | [CV ON GOOGLE DOCS](https://docs.google.com/document/d/1u93OsFGT0AAbK3jLJhfHKqyMUrx7Ut3paDofeDK7878/edit?usp=sharing/) | 
 </b>
 </span>
        
@@ -131,14 +131,20 @@ Work visa in an extending process| Russian, EU, INT driver licence
    <b class='no-italics'>PERSONAL WEB RESOURCES & APPS</b>
 </span>
 
-Onyx.exchange - Crypto portfolio hedge fund /made on React.JS and deployed to the Heroku Cloud /dev mode
-Ethermine - Cryptocurrency dual-mining Ethereum + Siacoin on AMD and Nvidia graphics cards 
-GoCleanMe - Cleaning services with the cryptocurrency acceptance as payments /made on Wordpress and deployed to the DigitalOcean Cloud
-GoCleanME - Cleaning apps globally published on Apple AppStore and Google Play Market /dev mode
-Oceanic -  Bootstrap website to help applicants to get translated their documents to English /deployed to GitHub
-SpeckNZ - Resource-Based Economy platform /based on Discourse and deployed to the DigitalOcean Cloud
-RelaxME - Massaging app globally published on Apple AppStore and Google Play Market
-2048 Puzzle Game - Puzzle game globally published on Apple AppStore and Google Play Market
+[Onyx.exchange](http://www.onyx.exchange/) - Crypto portfolio hedge fund /made on React.JS and deployed to the Heroku Cloud /dev mode
+[Ethermine](https://ethermine.org/miners/e3db5718a40ecf53834c1ae0fb91208622fa1e94) - Cryptocurrency dual-mining Ethereum + Siacoin on AMD and Nvidia graphics cards 
+
+[Gocleanme](http://www.gocleanme.me/) - Cleaning services with the cryptocurrency acceptance as payments /made on Wordpress and deployed to the DigitalOcean Cloud
+
+[CleanME](https://itunes.apple.com/nz/app/cleanme-cleaning-services/id1181291989?mt=8/) - Cleaning apps globally published on [Apple AppStore](https://itunes.apple.com/nz/app/cleanme-cleaning-services/id1181291989?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=com.cleanme.cleanme) /dev mode
+
+[Oceanic](http://organicnz.github.io/oceanic/) -  Bootstrap website to help applicants to get translated their documents to English /deployed to GitHub
+
+[SpeckNZ](http://www.specknz.me/) - Resource-Based Economy platform /based on Discourse and deployed to the DigitalOcean Cloud
+
+[RelaxME](https://itunes.apple.com/nz/app/relaxme-massage-services/id1186184398?mt=8/) - Massaging app globally published on [Apple AppStore](https://itunes.apple.com/nz/app/relaxme-massage-services/id1186184398?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=com.specknz.relaxme/)
+
+[2048 Puzzle Game](https://itunes.apple.com/nz/app/2048-logic-puzzle-game/id1193111277?mt=8/) - Puzzle game globally published on [Apple AppStore](https://itunes.apple.com/nz/app/2048-logic-puzzle-game/id1193111277?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=me.specknz.puzzle)
 
 <span>
    <b class='no-italics'>REFERENCES</b>
@@ -148,31 +154,3 @@ Impact NPO Charity organisation | Organiser Bhargavi Kotte 0210517000 | GridAKL 
 The Resource Based Global sustainability activist group | Organiser Gloria Gaspar 02040228615 | RBENZ Meetup group | Worldwide & Auckland activist 
 The game development company “RedFox” | Stephen McIntyre 021952680 | The Arcade Auckland | Game development internship 
 Cleaning Company | Company Director Ana Travaglio 0210673645 | Piha Auckland | Student part-time work
-
-
-
-
-<span>
-   <i class='no-italics'>CV ON GOOGLE DOCS</i>
-</span>
-[CV-Tarlan](https://docs.google.com/document/d/1u93OsFGT0AAbK3jLJhfHKqyMUrx7Ut3paDofeDK7878/edit?usp=sharing/)
-
-<span>
-   <i class='no-italics'>PERSONAL WEB RESOURCES & APPS</i>
-</span>
-
-[Onyx.exchange](http://www.onyx.exchange/)  - Crypto portfolio hedge fund /made on React.JS and deployed to the Heroku Cloud /dev mode
-
-[Ethermine](https://ethermine.org/miners/e3db5718a40ecf53834c1ae0fb91208622fa1e94) - Cryptocurrency dual-mining Ethereum + Siacoin by using graphics cards 
-
-[Gocleanme](http://www.gocleanme.me/) - Cleaning services with the cryptocurrency acceptance as payments /made on Wordpress and deployed to the DigitalOcean cloud
-
-[Oceanic](http://organicnz.github.io/oceanic/) - Bootstrap website to help applicants to get translated their documents to English /deployed to GitHub
-
-[SpeckNZ](http://www.specknz.me/) - Resource-Based Economy platform /based on Discource and deployed to the DigitalOcean Cloud  
-
-[CleanME](https://itunes.apple.com/nz/app/cleanme-cleaning-services/id1181291989?mt=8/) - Cleaning app made on React Native globally published on [Apple AppStore](https://itunes.apple.com/nz/app/cleanme-cleaning-services/id1181291989?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=com.cleanme.cleanme) /dev mode
-
-[RelaxME](https://itunes.apple.com/nz/app/relaxme-massage-services/id1186184398?mt=8/) - Massaging app made on Unity globally published on [Apple AppStore](https://itunes.apple.com/nz/app/relaxme-massage-services/id1186184398?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=com.specknz.relaxme/)
-
-[2048 Puzzle Game](https://itunes.apple.com/nz/app/2048-logic-puzzle-game/id1193111277?mt=8/) - Puzzle game made on Unity globally published on [Apple AppStore](https://itunes.apple.com/nz/app/2048-logic-puzzle-game/id1193111277?mt=8/) and [Google Play Market](https://play.google.com/store/apps/details?id=me.specknz.puzzle)
