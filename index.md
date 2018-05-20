@@ -1,6 +1,11 @@
 <h3>CV ON GOOGLE DOCS</h3>
 [CV-Tarlan](https://docs.google.com/document/d/1u93OsFGT0AAbK3jLJhfHKqyMUrx7Ut3paDofeDK7878/edit?usp=sharing/)
 
+<span>
+   test
+   <i class='no-italics'>PERSONAL WEB RESOURCES & APPS</i>
+</span>
+
 <h3>PERSONAL WEB RESOURCES & APPS</h3>
 
 [Onyx.exchange](http://www.onyx.exchange/)  - Crypto portfolio hedge fund /made on React.JS and deployed to the Heroku Cloud /dev mode
