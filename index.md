@@ -1,5 +1,6 @@
 <span>
-   <b class='no-italics'>TARLAN ISAEV</b>
+   <b class='no-italics'>TARLAN ISAEV [CV-Tarlan](https://docs.google.com/document/d/1u93OsFGT0AAbK3jLJhfHKqyMUrx7Ut3paDofeDK7878/edit?usp=sharing/)
+</b>
 </span>
        
 I'm a software developer specialising in web technologies and mobile development I have a true passion to create graphic designs. I’m in the earlier stages of my career I have also developed skills in computer applications, hardware and network support and administration. 
@@ -77,7 +78,11 @@ Computer assembling & Hardware repair
 Maintaining & administering LAN network 
 Install & support Windows OS
 Microsoft Office 
-EDUCATION
+
+<span>
+   <b class='no-italics'>EDUCATION</b>
+</span>
+
 Edenz Colleges Technology Academy | April 2016 - February 2017
 Bachelor's degree in Software Development Diploma Level 7
 
@@ -92,13 +97,21 @@ High General School
 
 Additional pre-university education | September 1997 - June 2003
 Head of technical associations certificate of the Aircraft modeling
-SKILLS
+
+<span>
+   <b class='no-italics'>SKILLS</b>
+</span>
+
 Software
 React, React Native, Webpack 2, Redux, Angular 2, jQuery, JavaScript | HTML, CSS | C#, Lua, OOP, Unity, Marmalade, ZeroBrane Studio | MongoDB, PostgresQL, SQL Databases | Bootstrap 3, WordPress | Development cross-platform applications iOS & Android, Publishing cross-platform applications iOS & Android | ASP.NET MVC Core | Source control GitHub & BeansTalks 
 
 Hardware
 Network settings & Internet connection | Computer & Cell phones ﬁxing | Arduino projects, Raspberry Pi projects, Freebooting consoles | Satellite antennas maintain  
-INTERESTS
+
+<span>
+   <b class='no-italics'>INTERESTS</b>
+</span>
+
 Resource-Based Economy | The Venus Project | The Zeitgeist Movement | Science | Elon Musk | Tesla 
 Information Technologies | Blockchain | Running | Cycling | Skiing | Photography | Video games | Podcasts 
 LANGUAGES
@@ -114,7 +127,11 @@ Oceanic -  Bootstrap website to help applicants to get translated their document
 SpeckNZ - Resource-Based Economy platform /based on Discourse and deployed to the DigitalOcean Cloud
 RelaxME - Massaging app globally published on Apple AppStore and Google Play Market
 2048 Puzzle Game - Puzzle game globally published on Apple AppStore and Google Play Market
-REFERENCES
+
+<span>
+   <b class='no-italics'>REFERENCES</b>
+</span>
+
 Impact NPO Charity organisation | Organiser Bhargavi Kotte 0210517000 | GridAKL space Auckland | Honourable volunteer  participated 6 times
 The Resource Based Global sustainability activist group | Organiser Gloria Gaspar 02040228615 | RBENZ Meetup group | Worldwide & Auckland activist 
 The game development company “RedFox” | Stephen McIntyre 021952680 | The Arcade Auckland | Game development internship 
