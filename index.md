@@ -1,5 +1,5 @@
 <span>
-   <i class='no-italics'>TARLAN ISAEV</i>
+   <b class='no-italics'>TARLAN ISAEV</b>
 </span>
        
 I'm a software developer specialising in web technologies and mobile development I have a true passion to create graphic designs. I’m in the earlier stages of my career I have also developed skills in computer applications, hardware and network support and administration. 
@@ -9,7 +9,7 @@ Skills and experience that I have received and improved on over the twelve years
 I’m looking for long-term career opportunities in IT. I have an outgoing personality with leadership potential.
 
 <span>
-   <i class='no-italics'>EXPERIENCE</i>
+   <b class='no-italics'>EXPERIENCE</b>
 </span>
 
 Individual Entrepreneur Tarlan Isaev | June 2017
