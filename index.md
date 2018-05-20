@@ -2,8 +2,7 @@
 [CV-Tarlan](https://docs.google.com/document/d/1u93OsFGT0AAbK3jLJhfHKqyMUrx7Ut3paDofeDK7878/edit?usp=sharing/)
 
 <span>
-   test
-   <i class='no-italics'>PERSONAL WEB RESOURCES & APPS</i>
+   <h2 i class='no-italics'>PERSONAL WEB RESOURCES & APPS</i>
 </span>
 
 <h3>PERSONAL WEB RESOURCES & APPS</h3>
