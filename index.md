@@ -1,6 +1,6 @@
 <span>
-   <b class='no-italics'>TARLAN ISAEV | [CV ON GOOGLE DOCS](https://docs.google.com/document/d/1u93OsFGT0AAbK3jLJhfHKqyMUrx7Ut3paDofeDK7878/edit?usp=sharing/) | 
-</b>
+   <b class='no-italics'>TARLAN ISAEV | [RESUME] (https://drive.google.com/open?id=1WwVraafCWS16r5SeG7XqJfXApPNoS6KT) | [CV](https://docs.google.com/document/d/1u93OsFGT0AAbK3jLJhfHKqyMUrx7Ut3paDofeDK7878/edit?usp=sharing/) 
+   </b>
 </span>
        
 I'm a software developer specialising in web technologies and mobile development I have a true passion to create graphic designs. I’m in the earlier stages of my career I have also developed skills in computer applications, hardware and network support and administration. 
