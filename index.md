@@ -1,5 +1,5 @@
 <span>
-   <b class='no-italics'>TARLAN ISAEV | [RESUME] (https://drive.google.com/file/d/1WwVraafCWS16r5SeG7XqJfXApPNoS6KT/view?usp=sharing) | [CV](https://docs.google.com/document/d/1u93OsFGT0AAbK3jLJhfHKqyMUrx7Ut3paDofeDK7878/edit?usp=sharing/) 
+   <b class='no-italics'>TARLAN ISAEV | [RESUME](https://drive.google.com/file/d/1WwVraafCWS16r5SeG7XqJfXApPNoS6KT/view?usp=sharing) | [CV](https://docs.google.com/document/d/1u93OsFGT0AAbK3jLJhfHKqyMUrx7Ut3paDofeDK7878/edit?usp=sharing/) 
    </b>
 </span>
        
