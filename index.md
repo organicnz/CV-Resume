@@ -114,11 +114,23 @@ Network settings & Internet connection | Computer & Cell phones ﬁxing | Arduin
 
 Resource-Based Economy | The Venus Project | The Zeitgeist Movement | Science | Elon Musk | Tesla 
 Information Technologies | Blockchain | Running | Cycling | Skiing | Photography | Video games | Podcasts 
-LANGUAGES
+
+<span>
+   <b class='no-italics'>LANGUAGES</b>
+</span>
+
 Russian native | English advanced | Azerbaijani native 
-PERSONAL DETAILS
+
+<span>
+   <b class='no-italics'>PERSONAL DETAILS</b>
+</span>
+
 Work visa in an extending process| Russian, EU, INT driver licence 
-PERSONAL WEB RESOURCES & APPS
+
+<span>
+   <b class='no-italics'>PERSONAL WEB RESOURCES & APPS</b>
+</span>
+
 Onyx.exchange - Crypto portfolio hedge fund /made on React.JS and deployed to the Heroku Cloud /dev mode
 Ethermine - Cryptocurrency dual-mining Ethereum + Siacoin on AMD and Nvidia graphics cards 
 GoCleanMe - Cleaning services with the cryptocurrency acceptance as payments /made on Wordpress and deployed to the DigitalOcean Cloud
